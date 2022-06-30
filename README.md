@@ -14,8 +14,8 @@ I did an internship at the <b>Digital Transformation Center of the Novosibirsk r
 <p align="center">
   <table>
   <tr>
-      <td><img width="550px" align="left" src="https://github-readme-stats.vercel.app/api?username=zEruwe&hide_border=true&count_private=false&layout=compact&hide_title=true&show_icons=true&theme=dark&icon_color=5194f0&bg_color=0d1117" /></td>
-      <td><img width="550px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zEruwe&hide=html&layout=compact&hide_border=true&hide_title=true&theme=dark&icon_color=5194f0&bg_color=0d1117" /></td>
+      <td><img width="550px" align="left" src="https://github-readme-stats.vercel.app/api?username=iEruwe&hide_border=true&count_private=false&layout=compact&hide_title=true&show_icons=true&theme=dark&icon_color=5194f0&bg_color=0d1117" /></td>
+      <td><img width="550px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iEruwe&hide=html&layout=compact&hide_border=true&hide_title=true&theme=dark&icon_color=5194f0&bg_color=0d1117" /></td>
   </tr>   
 </table>
 </p>
@@ -24,5 +24,5 @@ I did an internship at the <b>Digital Transformation Center of the Novosibirsk r
 
 <p>
   <a href="https://mailhide.io/e/YpFtbikD"><img src="https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white&color=5194f0" /></a>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=zEruwe.visitor-badge&color=5194f0" />
+  <img src="https://visitor-badge.glitch.me/badge?page_id=iEruwe.visitor-badge&color=5194f0" />
 </p>
