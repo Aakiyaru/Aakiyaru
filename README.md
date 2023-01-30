@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-My name is Denis and I'm a junior backend developer. I'm from Russia, Novosibirsk and currently studing at <b>Novosibirsk College of Electronics and Computer Engineering</b> (Новосибирский Колледж Электроники и Вычислительной Техники)
-
-I did an internship at the <b>Digital Transformation Center of the Novosibirsk region</b> (Центр Цифровой Трансформации НСО)
+My name is Denis and I'm a junior backend developer. I'm from Russia, Novosibirsk
 
 ### 🔧 Technologies & Tools
 
