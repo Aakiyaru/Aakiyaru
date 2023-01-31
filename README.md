@@ -12,8 +12,8 @@ My name is Denis and I'm a junior backend developer. I'm from Russia, Novosibirs
 <p align="center">
   <table>
   <tr>
-      <td><img width="550px" align="left" src="https://github-readme-stats.vercel.app/api?username=Hiikayama&hide_border=true&count_private=false&layout=compact&hide_title=true&show_icons=true&theme=dark&icon_color=5194f0&bg_color=0d1117" /></td>
-      <td><img width="550px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hiikayama&hide=html&layout=compact&hide_border=true&hide_title=true&theme=dark&icon_color=5194f0&bg_color=0d1117" /></td>
+      <td><img width="550px" align="left" src="https://github-readme-stats.vercel.app/api?username=Aakiyaru&hide_border=true&count_private=false&layout=compact&hide_title=true&show_icons=true&theme=dark&icon_color=5194f0&bg_color=0d1117" /></td>
+      <td><img width="550px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aakiyaru&hide=html&layout=compact&hide_border=true&hide_title=true&theme=dark&icon_color=5194f0&bg_color=0d1117" /></td>
   </tr>   
 </table>
 </p>
@@ -22,5 +22,5 @@ My name is Denis and I'm a junior backend developer. I'm from Russia, Novosibirs
 
 <p>
   <a href="https://mailhide.io/e/YpFtbikD"><img src="https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white&color=5194f0" /></a>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Hiikayama.visitor-badge&color=5194f0" />
+  <img src="https://visitor-badge.glitch.me/badge?page_id=Aakiyaru.visitor-badge&color=5194f0" />
 </p>
