@@ -1,26 +1,78 @@
-### Hi there 👋
+# Привет! Я Денис "Aakiyaru" Бондаренко 👋
 
-My name is Denis and I'm a junior backend developer. I'm from Russia, Novosibirsk
+### Junior Backend C# Developer
 
-### 🔧 Technologies & Tools
+## Обо мне / About Me
 
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=windows&logoColor=white&color=5194f0&bgcolor=110d17)
-![](https://img.shields.io/badge/Editor-VS-informational?style=flat-square&logo=visual-studio&logoColor=white&color=5194f0)
-![](https://img.shields.io/badge/Code-CSharp-informational?style=flat-square&logo=csharp&logoColor=white&color=5194f0)
+🇷🇺 Закончил колледж по специальности «Информационные системы и программирование».  
+Сейчас учусь в вузе на специальности «Прикладная информатика» (профиль: Информационные системы для финансовых институтов).  
 
-### 📈 GitHub Stats
-<p align="center">
-  <table>
-  <tr>
-      <td><img width="550px" align="left" src="https://github-readme-stats.vercel.app/api?username=Aakiyaru&hide_border=true&count_private=false&layout=compact&hide_title=true&show_icons=true&theme=dark&icon_color=5194f0&bg_color=0d1117" /></td>
-      <td><img width="550px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aakiyaru&hide=html&layout=compact&hide_border=true&hide_title=true&theme=dark&icon_color=5194f0&bg_color=0d1117" /></td>
-  </tr>   
-</table>
-</p>
+Работаю джуниор-программистом, совмещая разработку с задачами системного администрирования.  
 
-<br />
+🇬🇧 Graduated from college in *Information Systems and Programming*.  
+Currently studying *Applied Informatics* at university (Information Systems for Financial Institutions).  
 
-<p>
-  <a href="https://mailhide.io/e/YpFtbikD"><img src="https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white&color=5194f0" /></a>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Aakiyaru.visitor-badge&color=5194f0" />
-</p>
+Working as a Junior Developer, combining coding with system administration duties.
+
+---
+
+## 🛠 Технологии и инструменты / Tech Stack
+
+**Языки / Languages**  
+`C#` (хорошо / good), `Swift` (база / basic)
+
+**Фреймворки / Frameworks**  
+`.NET` | `.NET Framework` | `ASP.NET` | `WPF` | `WinForms` | `Blazor`
+
+**Инструменты / Tools**  
+`Git` | `Postman` | `PowerShell` | `MS SQL Server`
+
+---
+
+## 🎯 Текущие цели / Current Focus
+
+- Формирование системного мышления и навыков проектирования ПО.  
+- Developing systems thinking and software design skills.
+
+---
+
+## 📁 Проекты / Projects
+
+**Дипломная работа (College Diploma Project)**  
+🇷🇺 Разработал полноценное приложение: бэкенд (API) + фронтенд для iPhone на Swift.  
+Проект предназначен для отображения подсказок по получению достижений в компьютерных играх.
+
+🇬🇧 I have developed a full-fledged application: a backend (API) and a frontend for iPhone in Swift.
+The project is designed to display tips for earning achievements in computer games.
+
+**Pet-проекты / Pet projects**  
+🇷🇺 В основном занимаюсь разработкой типовых REST API с интеграцией баз данных (MS SQL).
+
+🇬🇧 I mainly develop standard REST APIs with database integration (MS SQL).
+
+---
+
+## 💼 Опыт работы / Work Style
+
+🇷🇺 Привык работать самостоятельно, но отлично понимаю ценность командного взаимодействия (особенно на текущей работе).  
+🇬🇧 I prefer working solo, but I fully understand the value of teamwork (especially in my current job).
+
+---
+
+## 📫 Контакты / Contacts
+
+- **Telegram:** [@aakiyaru](https://t.me/aakiyaru)  
+- **Email:** [work.bondarenko@mail.ru](mailto:work.bondarenko@mail.ru)  
+
+*(Другие соцсети не использую / I don't use other social networks)*
+
+---
+
+## ⚡ Хобби / Hobbies
+
+📚 Книги / Books
+🎮 Компьютерные игры / Videogames
+
+---
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Aakiyaru&show_icons=true&theme=dark&hide_title=true)
