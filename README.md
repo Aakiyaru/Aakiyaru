@@ -1,6 +1,4 @@
-# Привет! Я Денис "Aakiyaru" Бондаренко 👋
-
-### Junior Backend C# Developer
+## Junior Backend C# Developer
 
 ## Обо мне / About Me
 
